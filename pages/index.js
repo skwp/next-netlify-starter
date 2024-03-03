@@ -16,8 +16,6 @@ export default function Home() {
           <img src="https://res.cloudinary.com/swan-bitcoin/image/upload/v1709424076/TheRise.webp"/>
         </p>
       </main>
-
-      <Footer />
     </div>
   )
 }
